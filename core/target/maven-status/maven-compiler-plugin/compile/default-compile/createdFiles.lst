@@ -1,0 +1,11 @@
+com\aem\graphql\core\package-info.class
+com\aem\graphql\core\services\impl\GraphqlServiceImpl$Config.class
+com\aem\graphql\core\servlets\GraphqlServlet.class
+com\aem\graphql\core\models\GraphQLAdapter.class
+com\aem\graphql\core\models\AEMGraphQL.class
+com\aem\graphql\core\services\GraphqlService.class
+com\aem\graphql\core\models\AEMGraphQL$1.class
+com\aem\graphql\core\services\datafetcher\MapDataFetcher.class
+com\aem\graphql\core\utils\ServiceUserUtils.class
+com\aem\graphql\core\models\HelloWorldModel.class
+com\aem\graphql\core\services\impl\GraphqlServiceImpl.class
