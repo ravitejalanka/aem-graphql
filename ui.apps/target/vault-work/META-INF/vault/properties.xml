@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-graphql - UI apps</comment>
+<entry key="createdBy">lravi</entry>
+<entry key="name">aem-graphql.ui.apps</entry>
+<entry key="created">2018-11-27T15:30:59.922+0530</entry>
+<entry key="groupId">com.aem.graphql</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-graphql</entry>
+<entry key="description">UI apps package for aem-graphql</entry>
+<entry key="artifactId">aem-graphql.ui.apps</entry>
+<entry key="path">/etc/packages/aem-graphql/aem-graphql.ui.apps.zip</entry>
+</properties>
